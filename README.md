@@ -1,4 +1,4 @@
-# neural_viz 🧠📊
+# neural_viz 
 
 A **from-scratch neural network library** built on pure NumPy, designed ground-up for **visualization**. Every layer, weight matrix, gradient, activation, and loss function can be plotted with a single call.
 
